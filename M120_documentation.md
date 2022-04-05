@@ -107,7 +107,7 @@ But because of this, the breaking parts are more isolated and the issue can be a
 | [Sie erläutern, was unter Barrierefreiheit zu verstehen ist und geben Beispiele für die Umsetzung](#Accesibility) | 1 | 🔴 |
 | [Spezielles] | 1 | 🔴 |
 | [Vor- und Nachteile einer Trennung von Präsentations- und Anwendungslogik wurden erläutert](#(Dis)advantages-layering) | 1 | 🟢 |
-| [Für eine selbstgewählte Applikation wurden Skizzen/Mockups erstellt und erläutert](#Mockups-and-sketches) | 1 | 🔴 |
+| [Für eine selbstgewählte Applikation wurden Skizzen/Mockups erstellt und erläutert](#Mockups-and-sketches) | 1 | 🟢 |
 | [Die Anwendung des MVC-Patterns (oder MVVM, MVP) bei einer bestehenden (eigenen oder fremden) Anwendung wurde aufgezeigt und kommentiert](#MVC-documented) | 2 | 🔴 |
 | [Eine Anwendung wurde auf Basis des MVC-/MVVM-Patterns entwickelt](#MVC-based-developement) | 4 | 🔴 |
 | [Der Ablauf bei der Ereignisverarbeitung wurde aufgezeigt und anhand eines Beispielprogramms umgesetzt](#Functional-programming) | 2 | 🔴 |
